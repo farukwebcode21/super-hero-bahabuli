@@ -1,13 +1,90 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+}
+.section-header{
+  text-align: center;
+  background-color: rgba(29, 20, 20, 0.472);
+  height: 150px;
+  padding: 40px;
+  color: rgb(2, 1, 1);
+  text-transform: uppercase;
+  line-height: 1.5;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.body-section{
+  display: flex;
+  padding: 20px;
+  background-image: url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  
+}
+.star-detail{
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 20px;
+  grid-gap: 20px;
+  text-align: center;
+  
+}
+.grid-item{
+  background-color: rgba(71, 68, 68, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px; 
+  border-radius: 5px; 
+}
+
+.grid-item img{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  overflow: hidden; 
+}
+.text{
+  color: #fff;
+  margin-left: 40px;
+  font-size: 17px;
+}
+.btn{
+  margin-top: 15px;
+  width: 170px;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 3px;
+  border: none;
+  background-color: tomato;
+}
+.btn:hover{
+  
+  color: #fff;
+}
+/* Card Section */
+.add-card{
+  width: 30%;
+  margin-left: 20px;
+}
+.add-cardText{
+  margin: 20px;
+  color: #fff;
+
+
+}
+.card-img{
+  display: flex;
+  align-items: center;
+  background-color: rgba(71, 68, 68, 0.8);
+  margin-bottom: 20px;
+  border-radius: 5px;
+  color: rgb(26, 172, 230);
+  font-size: 20px;
+}
+.card-img img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  padding: 10px;
 }
