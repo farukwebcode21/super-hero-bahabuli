@@ -56,5 +56,5 @@ In the project directory, you can run:
 
 ## website live Link :
 
- <h3><a href="#">Bahabuli-3!</a></h3>
+ <h3><a href="https://bahabuli-3.netlify.app/">Live Bahabuli-3!</a></h3>
 
