@@ -4,23 +4,37 @@
 }
 .section-header{
   text-align: center;
-  background-color: rgba(29, 20, 20, 0.472);
+  background-color: rgba(71, 68, 68, 0.8);
   height: 150px;
-  padding: 40px;
-  color: rgb(2, 1, 1);
+  width: 90%;
+  margin: auto;
+  padding: 35px;
+  border-radius: 0 0 10px 10px;
+}
+.section-header h1{
+  color: aliceblue;
   text-transform: uppercase;
   line-height: 1.5;
+  letter-spacing: 4px;
+  font-style: italic;
+}
+.section-header h3{
+  color: aliceblue;
+  text-transform: uppercase;
+  
 }
 
-.body-section{
-  display: flex;
-  padding: 20px;
+.main-section{
   background-image: url('images/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  
+}
+
+.body-section{
+  display: flex;
+  padding: 20px;
 }
 .star-detail{
   width: 80%;
@@ -43,6 +57,11 @@
   width: 150px;
   height: 150px;
   overflow: hidden; 
+}
+.grid-item h3{
+  color: #ffffff;
+  text-decoration: underline;
+  letter-spacing: 3px;
 }
 .text{
   color: #fff;

@@ -6,9 +6,9 @@ const Header = () => {
             <div className="section-header">
                 <h1>Start New Movie shootin</h1>
                 <h1>Movie : Bahabuli-3</h1>
-                <p>Director: SS Rajamouli</p>
-                <p>Expected Stars & Others</p>
-                <p>Total Budget: 5000 Million</p>
+                <h3>Director: SS Rajamouli</h3>
+                <h3>Expected Stars & Others</h3>
+                <h3>Total Budget: 5000 Million</h3>
             </div>
         </>
     )

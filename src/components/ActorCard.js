@@ -7,13 +7,10 @@ const ActorCard = (props) => {
     return (
         <div className="grid-item">
             <img src={img} alt="actor"/>
+            <h3>{actor}</h3>
             <div className="text">
                 <table>
                     <tbody>
-                        <tr>
-                            <td>Name:</td>
-                            <td>{actor}</td>
-                        </tr>
                         <tr>
                             <td>Age:</td>
                             <td>{age}</td>

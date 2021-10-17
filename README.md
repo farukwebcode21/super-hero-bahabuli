@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Project Name:Assignment-8
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   Bahabuli-3
 
-## Available Scripts
+
+## Project Require :
+    1.Three Column Card & Card Inside Data
+    2. Card Colume use Gap & Proper Color must  
+    3. Create Fake JSON Data
+    4. Fake JSOn Data inside Must be Five Field or more and one integer number must
+    5.All Card Minimum Five Information or more............
+    6.All Card Picture Must but circular not mandatory you can show square
+    7 .Header Must and website related inform in your header include 
+    8. Header one Heading Total Budject Mandatory but not dynamic
+    9. all card inside button and when you click button right side card add salary or other andy informatin and show total added amount, name must
+    10.Folder Structer Must
+    11. Your Website must relevent picture show
+    12. responsive not mandatory
+    13. css framewok not mandatory 
+    14. animation not mandatory
+    15. buy now button not mandatory
+    17. Background Image not mandatory 
+    18. localstorage not mandatory
+    19. Distructuring use must 
+    20. Component name 
+
+    ##You Can't use This Quatation:
+    You can't copy our site or same design color 
+    You can't use emajon ecommerce site 
+    You can't use sport person any kind of sports
+    You can't use super hero movie include person
+
+
+
+## How Installation:
 
 In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    Clone the repo in your terminal by clicking the green clone or download button at the top right and copyin the url
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+    In your terminal, type git clone URL
+        replace URL with the url you copied
+        hit enter
 
-### `yarn test`
+    This will copy all the files from this repo down to your computer
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    In your terminal, cd into the directory you just created
 
-### `yarn build`
+    Type npm install to install all dependencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    Last, but not least, type npm start to run the app locally.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    To look at the code, just open up the project in your favorite code editor!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## website live Link :
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+ <h3><a href="#">Bahabuli-3!</a></h3>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
