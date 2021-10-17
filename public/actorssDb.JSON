@@ -3,7 +3,7 @@
         "key": "1",
         "actor": "Prabhas",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Hyderabad",
         "salary": 500000,
         "country": "Indin",
         "img": "https://i.ibb.co/ncB2FCf/1.jpg"
@@ -14,7 +14,7 @@
         "actor": "Rana Daggubati",
         "age": 36,
         "birthPlace": "Chennai",
-        "salary": 5000,
+        "salary": 61000,
         "country": "Indin",
         "img": "https://i.ibb.co/9NJRH6g/2.jpg"
 
@@ -22,9 +22,9 @@
     {
         "key": "3",
         "actor": "Anushka Shetty",
-        "age": 33,
-        "birthPlace": "Mangalore, Karnataka",
-        "salary": 500000,
+        "age": 30,
+        "birthPlace": "Mangalore",
+        "salary": 980000,
         "country": "Indin",
         "img": "https://i.ibb.co/bXhvpDK/3.jpg"
 
@@ -42,9 +42,9 @@
     {
         "key": "5",
         "actor": "Ramya Krishnan",
-        "age": 33,
+        "age": 43,
         "birthPlace": "Chennai",
-        "salary": 500000,
+        "salary": 4000,
         "country": "Indin",
         "img": "https://i.ibb.co/RT6JHNd/5.jpg"
 
@@ -52,9 +52,9 @@
     {
         "key": "6",
         "actor": "Nassar",
-        "age": 33,
+        "age": 53,
         "birthPlace": "Tamil Nadu",
-        "salary": 500000,
+        "salary": 9000,
         "country": "Indin",
         "img": "https://i.ibb.co/N2QmjJB/6.jpg"
 
@@ -64,7 +64,7 @@
         "actor": "Sathyaraj",
         "age": 33,
         "birthPlace": "Tamil Nadu",
-        "salary": 500000,
+        "salary": 8000,
         "country": "Indin",
         "img": "https://i.ibb.co/b3JQzK9/7.jpg"
 
@@ -72,9 +72,9 @@
     {
         "key": "8",
         "actor": "Adivi Sesh",
-        "age": 33,
+        "age": 40,
         "birthPlace": "Hyderabad",
-        "salary": 500000,
+        "salary": 5000,
         "country": "Indin",
         "img": "https://i.ibb.co/Dp6yTSQ/8.jpg"
 
@@ -82,9 +82,9 @@
     {
         "key": "9",
         "actor": "Subbaraju",
-        "age": 33,
+        "age": 45,
         "birthPlace": "Tamil Nadu",
-        "salary": 500000,
+        "salary": 60000,
         "country": "Indin",
         "img": "https://i.ibb.co/bsKB16R/9.jpg"
 
@@ -94,7 +94,7 @@
         "actor": "Charandeep",
         "age": 33,
         "birthPlace": "Tamil Nadu",
-        "salary": 500000,
+        "salary": 6200,
         "country": "Indin",
         "img": "https://i.ibb.co/qNS5Nmx/10.jpg"
 
@@ -103,8 +103,8 @@
         "key": "11",
         "actor": "Sudeep",
         "age": 33,
-        "birthPlace": "Shimoga, Karnataka",
-        "salary": 500000,
+        "birthPlace": "Shimoga",
+        "salary": 7000,
         "country": "Indin",
         "img": "https://i.ibb.co/1fQ3Tyf/11.jpg"
 
@@ -112,9 +112,9 @@
     {
         "key": "12",
         "actor": "Prabhakar",
-        "age": 33,
+        "age": 43,
         "birthPlace": "Tamil Nadu",
-        "salary": 500000,
+        "salary": 6000,
         "country": "Indin",
         "img": "https://i.ibb.co/WHyT5Bh/12.jpg"
 
@@ -124,17 +124,17 @@
         "actor": "Rohini",
         "age": 33,
         "country": "Indin",
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "birthPlace": "Tamil Nadu",
+        "salary": 3000,
         "img": "https://i.ibb.co/GxqXqK3/13.jpg"
 
     },
     {
         "key": "14",
         "actor": "Tanikella Bharani",
-        "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "age": 53,
+        "birthPlace": "Chennai",
+        "salary": 7000,
         "country": "Indin",
         "img": "https://i.ibb.co/mcQkxDG/14.jpg"
 
@@ -143,8 +143,8 @@
         "key": "15",
         "actor": "Nora Fatehi",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "birthPlace": "Chennai",
+        "salary": 6000,
         "country": "Indin",
         "img": "https://i.ibb.co/pfd8xqX/15.jpg"
 
@@ -152,9 +152,9 @@
     {
         "key": "16",
         "actor": "Scarlett Mellish Wilson",
-        "age": 33,
-        "birthPlace": "Folkstone, Kent",
-        "salary": 500000,
+        "age": 30,
+        "birthPlace": "Folkstone",
+        "salary": 2000,
         "country": "Indin",
         "img": "https://i.ibb.co/HqrQyxY/16.jpg"
 
@@ -162,8 +162,8 @@
     {
         "key": "17",
         "actor": "S.S.Rajamouli",
-        "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "age": 43,
+        "birthPlace": "Chennai",
         "salary": 500000,
         "country": "Indin",
         "img": "https://i.ibb.co/cJNcyHs/17.jpg"
@@ -172,9 +172,9 @@
     {
         "key": "18",
         "actor": "Chalapathi Rao",
-        "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "age": 43,
+        "birthPlace": "Chennai",
+        "salary": 4000,
         "country": "Indin",
         "img": "https://i.ibb.co/4mh2sTN/18.jpg"
 
@@ -183,8 +183,8 @@
         "key": "19",
         "actor": "John Kokken",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "birthPlace": "Chennai",
+        "salary": 15000,
         "country": "Indin",
         "img": "https://i.ibb.co/sCjppyL/19.jpg"
 
@@ -192,9 +192,9 @@
     {
         "key": "20",
         "actor": "Teja Kakumanu",
-        "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "age": 23,
+        "birthPlace": "Chennai",
+        "salary": 1000,
         "country": "Indin",
         "img": "https://i.ibb.co/MBStCVx/20.jpg"
 
@@ -203,8 +203,8 @@
         "key": "21",
         "actor": "Shobhu Yarlagadda",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "birthPlace": "Tamil Nadu",
+        "salary": 3000,
         "country": "Indin",
         "img": "https://i.ibb.co/Kr3LWmQ/21.jpg"
 
@@ -212,9 +212,9 @@
     {
         "key": "22",
         "actor": "Prasad Devineni",
-        "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "age": 38,
+        "birthPlace": "Tamil Nadu",
+        "salary": 20000,
         "country": "Indin",
         "img": "https://i.ibb.co/XzjgzXD/22.jpg"
 
@@ -222,9 +222,9 @@
     {
         "key": "23",
         "actor": "M.M. Keeravani",
-        "age": 33,
+        "age": 50,
         "birthPlace": "Andhra Pradesh",
-        "salary": 500000,
+        "salary": 5000,
         "country": "Indin",
         "img": "https://i.ibb.co/55wt1yw/23.jpg"
 
@@ -232,9 +232,9 @@
     {
         "key": "24",
         "actor": "Ramajogaya Sastry",
-        "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
-        "salary": 500000,
+        "age": 43,
+        "birthPlace": "Chennai",
+        "salary": 500,
         "country": "Indin",
         "img": "https://i.ibb.co/R2QHrPp/24.jpg"
 
@@ -242,8 +242,8 @@
     {
         "key": "25",
         "actor": "Chaitanya Prasad",
-        "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "age": 38,
+        "birthPlace": "Tamil Nadu",
         "salary": 500000,
         "country": "Indin",
         "img": "https://i.ibb.co/7gB2v9C/25.jpg"
@@ -252,9 +252,9 @@
     {
         "key": "26",
         "actor": "Noel",
-        "age": 33,
+        "age": 25,
         "country": "Indin",
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Chennai",
         "salary": 500000,
         "img": "https://i.ibb.co/d78tNWV/26.jpg"
 
@@ -263,7 +263,7 @@
         "key": "27",
         "actor": "Yamini",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Chennai",
         "salary": 500000,
         "country": "Indin",
         "img": "https://i.ibb.co/NVJP3sL/27.jpg"
@@ -273,7 +273,7 @@
         "key": "28",
         "actor": "Geetha Madhuri",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Hyderabad",
         "salary": 500000,
         "country": "Indin",
         "img": "https://i.ibb.co/qgsMC3g/28.jpg"
@@ -283,8 +283,9 @@
         "key": "29",
         "actor": "Ramya NSK",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Tamil Nadu",
         "salary": 500000,
+        "country": "Indin",
         "img": "https://i.ibb.co/bJ7sBkJ/29.jpg"
 
     },
@@ -292,8 +293,9 @@
         "key": "30",
         "actor": "Deepu",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Tamil Nadu",
         "salary": 500000,
+        "country": "Indin",
         "img": "https://i.ibb.co/VpWpsv1/30.jpg"
 
     },
@@ -301,8 +303,9 @@
         "key": "31",
         "actor": "Mounima",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Hyderabad",
         "salary": 500000,
+        "country": "Indin",
         "img": "https://i.ibb.co/DpxZ41D/31.jpg"
 
     },
@@ -310,8 +313,9 @@
         "key": "32",
         "actor": "Karthik",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Chennai",
         "salary": 500000,
+        "country": "Indin",
         "img": "https://i.ibb.co/pbd20xq/32.jpg"
 
     },
@@ -319,8 +323,9 @@
         "key": "33",
         "actor": "Revanth",
         "age": 33,
-        "birthPlace": "Chennai, Tamil Nadu",
+        "birthPlace": "Hyderabad",
         "salary": 500000,
+        "country": "Indin",
         "img": "https://i.ibb.co/7j8zrfP/33.jpg",
         "poster":[
             {

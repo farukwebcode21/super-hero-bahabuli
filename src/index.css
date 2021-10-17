@@ -58,18 +58,22 @@
   border: none;
   background-color: tomato;
 }
-.btn:hover{
-  
+.btn:hover,
+.btn-buy:hover{
   color: #fff;
 }
+
 /* Card Section */
 .add-card{
   width: 30%;
   margin-left: 20px;
 }
 .add-cardText{
-  margin: 20px;
   color: #fff;
+  background-color: rgba(71, 68, 68, 0.8);
+  text-align: center;
+  border: 1px solid;
+  padding: 20px;
 
 
 }
@@ -82,9 +86,21 @@
   color: rgb(26, 172, 230);
   font-size: 20px;
 }
+.card{
+  padding: 20px;
+}
 .card-img img{
   width: 100px;
   height: 100px;
   border-radius: 50%;
   padding: 10px;
+}
+.btn-buy{
+  margin-top: 15px;
+  width: 345px;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 3px;
+  border: none;
+  background-color: tomato;
 }

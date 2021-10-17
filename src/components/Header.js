@@ -8,7 +8,7 @@ const Header = () => {
                 <h1>Movie : Bahabuli-3</h1>
                 <p>Director: SS Rajamouli</p>
                 <p>Expected Stars & Others</p>
-                <p>Total Budget:5000 Million</p>
+                <p>Total Budget: 5000 Million</p>
             </div>
         </>
     )

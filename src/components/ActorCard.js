@@ -1,7 +1,8 @@
 import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBookmark} from '@fortawesome/free-solid-svg-icons'
 
 const ActorCard = (props) => {
-    console.log(props);
     const {actor, age, birthPlace, salary,img,country} = props.actor;
     return (
         <div className="grid-item">
@@ -32,7 +33,7 @@ const ActorCard = (props) => {
                     </tbody>
                 </table>
             </div>
-            <button className="btn">Add To Cart</button>
+            <button className="btn" onClick={() => props.handleAddToActor(props.actor)}> <FontAwesomeIcon icon={faBookmark} /> Add To Cart</button>
         </div>
     )
 }
